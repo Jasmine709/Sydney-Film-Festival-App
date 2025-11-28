@@ -1,5 +1,8 @@
 # Sydney Film Festival App - FFFinder
 
+**Project Duration:** Mar 2025 – Jun 2025
+**Team Project:** 4 members
+
 A modern iOS application built with **SwiftUI** and **MVVM architecture** that allows users to explore film festivals, browse films, save favorites, receive notifications, and manage their profile settings.  
 This project was developed as a collaborative team effort, following clean architecture principles and modular SwiftUI design.
 
