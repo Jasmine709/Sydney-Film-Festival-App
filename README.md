@@ -1,4 +1,4 @@
-#  Sydney Film Festival App - FFFinder
+# Sydney Film Festival App - FFFinder
 
 A modern iOS application built with **SwiftUI** and **MVVM architecture** that allows users to explore film festivals, browse films, save favorites, receive notifications, and manage their profile settings.  
 This project was developed as a collaborative team effort, following clean architecture principles and modular SwiftUI design.
@@ -55,7 +55,7 @@ This project was developed as a collaborative team effort, following clean archi
 ---
 
 ##  Architecture (MVVM)
-
+The project follows a modular MVVM structure:
 ```
 FFFinder
 ├── Models/             # Film, FilmFestival data structures
@@ -79,7 +79,9 @@ Key architectural ideas:
 
 ### 1. Clone the Repository
 
+```bash
 git clone https://github.com/Jasmine709/Sydney-Film-Festival-App.git
+```
 
 ### 2. Open in Xcode
 
@@ -105,57 +107,43 @@ Select an iPhone simulator (e.g., iPhone 15) → Run (⌘ + R)
 
 ##  My Contributions (Jasmine)
 
-I led the implementation of the User Account System, which includes all user-centered functional modules beyond the festival/film browsing features.
-My work focused on architecture, navigation, reusable UI design, and MVVM-based state management.
+I led the implementation of the User Account System, covering all user-facing modules beyond festival and film browsing. My work focused on navigation flow design, reusable SwiftUI components, and MVVM-based state management.
 
 ### Profile Page
 
 - Designed a clean profile dashboard with modern card UI
-
 - Built navigation to Settings, Notifications, Help, and About
-
 - Ensured responsive layout and consistent SwiftUI styling
 
 ### Notification Center
 
 - Implemented the in-app notification list
-
 - Designed “mark as read” interactions
-
 - Connected view with ViewModel for reactive updates
 
 ### Settings Page
 
 - Implemented account preference layout with SwiftUI List + Section
-
 - Built secure Logout system with proper state handling
-
 - Designed modular reusable setting rows/components
 
 ### Help & Support
 
 - Created FAQ-style help section
-
 - Added support / contact entry
 
 ### About Page
 
 - Added team and app introduction screens
-
 - Designed typography & layout for readability
 
 ### Skills Demonstrated
 
 - SwiftUI view architecture
-
 - MVVM logic separation
-
 - Multi-screen navigation
-
-- State management (ObservableObject, @State, etc.)
-
+- State management (`ObservableObject`, `@State`, `@Binding`, etc.)
 - Component-driven UI design
-
 - Building complete user flows
 
 ##  License
