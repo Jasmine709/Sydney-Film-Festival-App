@@ -93,15 +93,15 @@ Select an iPhone simulator (e.g., iPhone 15) → Run (⌘ + R)
 
 | Home | Festival Detail | Film Detail |
 |------|----------------|-------------|
-|<img alt="image" src="https://github.com/user-attachments/assets/edd17400-bf92-4bd7-a56a-12dea14a8057" width="250"/> | <img alt="image" src="https://github.com/user-attachments/assets/a3ac96ba-009d-4556-aa77-1c2a96c92360" width="250"/> | <img alt="image" src="https://github.com/user-attachments/assets/2e6ddccf-21d9-466e-b38f-97e735ad1ef2" width="250"/> |
+|<img width="250" alt="image" src="https://github.com/user-attachments/assets/5d4e2f72-2671-408b-a307-38793158be9d" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/fe25efe8-9035-406c-81d2-a438793aabd0" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/bcffc331-c233-4242-960e-112c95a17001" /> |
 
 | Favorites | Profile | Search |
 |----------|---------|----------|
-| <img src="https://github.com/user-attachments/assets/c9c92005-2d05-4fa7-96df-34bffb8427c6" width="250"/> | <img src="https://github.com/user-attachments/assets/5d6c30b5-b091-4573-8bc7-7e0cfad194be" width="250"/> |  <img width="250" alt="image" src="https://github.com/user-attachments/assets/e0a8648e-f7e6-435b-b0e8-f68ccd418488" />|
+| <img width="250" alt="image" src="https://github.com/user-attachments/assets/a062036e-4431-472f-a5dc-f1b5e576e357" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/ec57838b-8c20-480e-aad7-b0acdeaa5762" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/366f25c6-84ee-4ce3-a0b5-f4d865b9f8eb" /> |
 
 | Notifications | Help | About |
 |--------------|------|-------|
-| <img src="https://github.com/user-attachments/assets/6aee85c8-4588-41dd-b0a0-39aef8dcdc65" width="250"/> | <img src="https://github.com/user-attachments/assets/de4605cd-605d-45f0-a596-fdc4d87505c3" width="250"/> | <img src="https://github.com/user-attachments/assets/2c56f652-d104-4bf8-96bd-72fb1e09ace8" width="250"/> |
+| <img width="250" alt="image" src="https://github.com/user-attachments/assets/277d71dc-9cfd-41b4-8cbb-b32978cf1c1f" /> |<img width="250" alt="image" src="https://github.com/user-attachments/assets/84426ce6-df07-4047-a849-9d02d60e38e9" /> | <img width="250" alt="image" src="https://github.com/user-attachments/assets/3bc3ce4e-0ebc-423b-a1a2-10c0733ab36e" /> |
 
 ##  My Contributions (Jasmine)
 
