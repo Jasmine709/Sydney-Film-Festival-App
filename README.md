@@ -1,6 +1,6 @@
 # Sydney Film Festival App - FFFinder
 
-**Project Duration:** Mar 2025 – Jun 2025
+**Project Duration:** May 2025 – Jun 2025
 
 **Team Project:** 4 members
 
